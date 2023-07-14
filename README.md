@@ -52,4 +52,4 @@ Please direct any questions to.<br>
 barryengler@gmail.com <br>
 [GitHub](https://github.com/Barry25000)
 
-![Repo Screenshot]([https://github.com/Barry25000/Social_Network/blob/main/images/Repo_screenshot.png]
+![Repo]([https://github.com/Barry25000/Social_Network/blob/main/images/Repo_screenshot.png]
