@@ -36,7 +36,7 @@ const userSchema = new Schema(
   }
 );
 
-// Friend count in User model when friends are added
+// Increment friend count in User model when friends are added
 userSchema.virtual("friendCount").get(function () {
   return this.friends.length;
 });

@@ -1,6 +1,5 @@
 const router = require("express").Router();
 
-// Functions written in userController.js
 const {
   getUsers,
   getUser,

@@ -1,6 +1,5 @@
 const router = require("express").Router();
 
-// Functions written in thoughtController.js
 const {
   getThoughts,
   getThought,

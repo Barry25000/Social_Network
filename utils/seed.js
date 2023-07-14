@@ -1,7 +1,4 @@
-// const { User, Thought, Reaction } = require("../models");
 const { User } = require("../models");
-// const mongoose = require("mongoose");
-
 const connection = require("../config/connection");
 
 // Seed data
@@ -50,8 +47,6 @@ const users = [
 
 // Connects to server
 connection.once("open", async () => {
-  console.log("connected");
-
   // Drop existing users
   await User.deleteMany({});
 
